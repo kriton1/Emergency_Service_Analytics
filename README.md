@@ -1,6 +1,6 @@
 <b>Emergency Service Analysis</b></br>
 <p></p>
-The Project aims to generate insights from an ambulance service where a patient calls 555. A staff member will receive the call (Time Recorded) and </br>assign a despatch code, once the despatch code has been assigned. The Ambulance will then leave the station (Time Recorded).</br> The Ambulance will then arrive at the patient's house (Time Recorded). The Ambulance will then arrive at the Hospital (Time Recorded). </br>Then there is one final Timestamp for when the job is complete.</br>
+The Project aims to generate insights from an ambulance service where a patient calls 555. A staff member will receive the call (Time Recorded) and assign a despatch code, once the despatch code has been assigned. The Ambulance will then leave the station (Time Recorded).</br> The Ambulance will then arrive at the patient's house (Time Recorded). The Ambulance will then arrive at the Hospital (Time Recorded). </br>Then there is one final Timestamp for when the job is complete.</br>
 <p></p>
 <b>Key indicators</b></br>
 <li>No of calls</li>
